@@ -2,8 +2,6 @@
 
 I'm Elias de Oliveira, a software developer from Brazil.
 
-I am the author of the [TEABrasil.ORG](https://teabrasil.org/coletivo) project and one of the creators of [FrontinFortaleza](https://www.instagram.com/frontinfortaleza).
-
 ### Find me elsewhere 🌎
 
 🚀 [Site](https://canivete.net/) <br>
